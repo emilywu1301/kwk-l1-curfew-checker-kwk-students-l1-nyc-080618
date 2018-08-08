@@ -4,6 +4,8 @@ def simple_curfew_checker(time)
     puts "its ok"
 end
 
+simple_curfew_checker(10)
+
 def curfew_checker(time)
   # code goes here
 end
